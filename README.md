@@ -8,6 +8,7 @@ The following generics are available:
 
 * Sets
 * FIFO Queues
+* Graphs
 
 ## Documentation
 
