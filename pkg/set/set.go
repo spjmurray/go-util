@@ -59,8 +59,8 @@ func (s Set[T]) Contains(t T) bool {
 }
 
 // Clear removes all set elements.
-func (s *Set[T]) Clear() {
-	*s = map[T]any{}
+func (s Set[T]) Clear() {
+	clear(s)
 }
 
 // All provides non-deterministic iteration.
