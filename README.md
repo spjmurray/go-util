@@ -7,3 +7,8 @@ A collection of handy Go utilities.
 The following generics are available:
 
 * Sets
+* FIFO Queues
+
+## Documentation
+
+All available at [pkg.go.dev](https://pkg.go.dev/github.com/spjmurray/go-util).
